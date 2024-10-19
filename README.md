@@ -23,3 +23,10 @@ Learning how to create branches as my weekly tasks.
 `git merge feature/weekly-task`
 
 > Note that all the commits that you've made will be carried over to the main branch with this command.
+
+
+
+git add .
+git status
+git commit -  escrever a legenda
+git pushr
